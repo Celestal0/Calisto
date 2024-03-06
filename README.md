@@ -1,2 +1,2 @@
-# Calisto-
+# Calisto
 AI Searching Engine
